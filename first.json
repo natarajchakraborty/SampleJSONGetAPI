@@ -1,5 +1,5 @@
 {
-  'test': 1,
-  'status': 'success',
-  'times': 1
+    "test": 1,
+    "status": "success",
+    "times": 1
 }
